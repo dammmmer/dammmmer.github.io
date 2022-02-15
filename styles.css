@@ -2,12 +2,7 @@
     display: flex;
 }
 
-ul  {
-    display: inline;
-    color: aqua;
-}
-
-li {
+.header > li  {
     display: inline;
     color: aqua;
 }
