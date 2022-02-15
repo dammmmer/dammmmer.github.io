@@ -1,4 +1,10 @@
 .header {
     display: flex;
-    
 }
+
+.header > li {
+    display: flex;
+}
+
+
+
