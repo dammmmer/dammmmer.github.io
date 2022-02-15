@@ -2,7 +2,7 @@
     display: flex;
 }
 
-.header > ul li {
+ul  {
     display: inline;
 }
 
