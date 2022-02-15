@@ -3,7 +3,7 @@
 }
 
 .header > li {
-    display: flex;
+    display: block;
 }
 
 
